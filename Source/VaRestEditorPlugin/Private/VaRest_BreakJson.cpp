@@ -3,7 +3,7 @@
 
 #include "VaRestEditorPluginPrivatePCH.h"
 #include "VaRest_BreakJson.h"
-
+#include "EdGraphUtilities.h"
 #include "Runtime/Launch/Resources/Version.h"
 #include "EdGraphUtilities.h"
 
